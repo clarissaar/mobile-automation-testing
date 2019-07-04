@@ -5,9 +5,9 @@ This project was created with the goal to create IOS and Android automation, usi
 
 ##**Used Technologies**
  
- - **Ruby** : [Documentation](https://www.ruby-lang.org/pt/)*
- - **Cucumber**: [Documentation](cucumber.io)*
- - **Appium**: [Documentation][Appium](http://appium.io/)*
+ - **Ruby** : [Documentation](https://www.ruby-lang.org/pt/)
+ - **Cucumber**: [Documentation](cucumber.io)
+ - **Appium**: [Documentation](http://appium.io/)
 
 **Requirements**:
 
@@ -17,8 +17,8 @@ This project was created with the goal to create IOS and Android automation, usi
  - Ant Version 1.8 >
  - Adb
  - Ruby 2.23 >=
- - Bundler gem (gem install bundler)
- - Appium (http://appium.io/)
+ - Bundler gem (`gem install bundler`)
+ - Appium 
  - Android Device 4.1 >=
 
 **Execution Steps**:
