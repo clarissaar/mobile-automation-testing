@@ -3,7 +3,7 @@ Mobile Testing Automation Framework
 
 This project was created with the goal to create IOS and Android automation, using Page Objects concept to mapping those elements.
 
-##**Used Technologies**
+**Used Technologies**
  
  - **Ruby** : [Documentation](https://www.ruby-lang.org/pt/)
  - **Cucumber**: [Documentation](cucumber.io)
